@@ -20,7 +20,7 @@ namespace PentaSphere.Reader
                 case 2:
                     gamestate = "Playing";
                     break;
-                case 9:
+                case 3:
                     gamestate = "Result";
                     break;
 
@@ -44,7 +44,7 @@ namespace PentaSphere.Reader
                 case 2:
                     timestate = "Halftime";
                     break;
-                case 9:
+                case 3:
                     timestate = "Second Half";
                     break;
 
